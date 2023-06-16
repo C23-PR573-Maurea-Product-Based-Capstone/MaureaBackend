@@ -11,7 +11,7 @@ Maurea is an innovative application designed to assist user in accurately determ
 5. (CC) C151DSX2388 – Matias Ariel Haga Gulo – Universitas Brawijaya - [Active]
 6. (MD) A136DSX2103 – Wahyu Dwi Hartarto – Universitas Amikom Yogyakarta - [Active]
 
-Theme : Agriculture, Food, and Beverage
+### Theme : Agriculture, Food, and Beverage
 
 # Cloud Computing Learning Path
 
